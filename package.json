@@ -1,11 +1,11 @@
 {
-  "name": "passport-linkedin-oauth2",
+  "name": "linkedin app something or other",
   "version": "1.2.1",
-  "description": "Passport for LinkedIn Oauth2",
+  "description": "networking",
   "main": "./lib",
-  "repository": "https://github.com/auth0/passport-linkedin-oauth2",
+  "repository": "https://github.com/jvald8/linkedInApp3",
   "scripts": {
-    "test": "mocha --require should -t 5000"
+    "test": "grunt test"
   },
   "devDependencies": {
     "mocha": "*",
@@ -15,29 +15,10 @@
     "ejs": "~0.8.4"
   },
   "keywords": [
-    "passport",
-    "linkedin",
-    "auth0"
+    "networking",
+    "linkedin"
   ],
-  "author": "Auth0",
-  "contributors": [
-    {
-      "name": "Eugenio Pace",
-      "email": "eugenio.pace@qraftlabs.com"
-    },
-    {
-      "name": "Joshua Schell",
-      "email": "jschell12@gmail.com"
-    },
-    {
-      "name": "Jose Romaniello",
-      "email": "jfromaniello@gmail.com"
-    },
-    {
-      "name": "Tom Spencer",
-      "email": "fiznool@gmail.com"
-    }
-  ],
+  "author": "Jon Ringvald",
   "license": "MIT",
   "dependencies": {
     "passport-oauth2": "^1.1.2",
