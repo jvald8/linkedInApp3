@@ -1,0 +1,2 @@
+var LINKEDIN_CLIENT_ID = "75cw9q0iffjjfg";
+var LINKEDIN_CLIENT_SECRET = "wSa0VUNKtpHaHmuF";
