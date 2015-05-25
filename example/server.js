@@ -4,8 +4,8 @@ var express = require('express')
 
 // API Access link for creating client ID and secret:
 // https://www.linkedin.com/secure/developer
-var LINKEDIN_CLIENT_ID = "75cw9q0iffjjfg";
-var LINKEDIN_CLIENT_SECRET = "wSa0VUNKtpHaHmuF";
+var LINKEDIN_CLIENT_ID = "";
+var LINKEDIN_CLIENT_SECRET = "";
 
 
 // Passport session setup.
